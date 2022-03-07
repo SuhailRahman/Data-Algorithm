@@ -1,4 +1,4 @@
-# daa_project
+# Data Algorithms project
 TIC TAC TOE 
 
 The problem statement here is to find the most optimal move in a game of tic tac toe. The objective of the game are simple. We need to get three in a row. The first player, in this case the maximizer is known as X and the second, the minimizer, is O. Players alternate placing X’ s and O’s on the game board until either opponent has three in a row or all nine squares are filled. Three in a row can mean a single row, column or any of the two diagonals.
